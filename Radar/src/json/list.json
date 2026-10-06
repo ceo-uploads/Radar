@@ -1,0 +1,310 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Animals",
+            "image": "https://images.unsplash.com/photo-1501706362039-c6e809f7b0c1",
+            "description": "Tools for Animal World 🐱."
+        },
+        {
+            "id": 2,
+            "name": "Anime",
+            "image": "https://img.magnific.com/premium-vector/anime-figure-standing-blue-flames_1141380-402.jpg?semt=ais_hybrid&w=740&q=80",
+            "description": "Anime and Manga Resources 🎉."
+        },
+        {
+            "id": 3,
+            "name": "Anti-Malware",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZky7Dwwd9OGaw8sxbenrIFJWNY9hXCNvR63enfJ-xg&s=10",
+            "description": "Tools for Anti-Malware Protection and Resources 🛡️."
+        },
+        {
+            "id": 4,
+            "name": "Art & Design",
+            "image": "https://img.magnific.com/premium-vector/colorful-creative-logo-design_339976-60382.jpg?semt=ais_hybrid&w=740&q=80",
+            "description": "Tools for Art and Design and Useful Resources 🎨."
+        },
+        {
+            "id": 5,
+            "name": "Authentication & Authorization",
+            "image": "https://w7.pngwing.com/pngs/216/586/png-transparent-microsoft-authenticator-hd-logo-thumbnail.png",
+            "description": "Resources for Authentication and Authorization 🛡️."
+        },
+        {
+            "id": 6,
+            "name": "Blockchain",
+            "image": "https://img.magnific.com/premium-vector/blockchain-logo-cloud-cryptocurrency-icon-vector-image_150826-326.jpg?semt=ais_hybrid&w=740&q=80",
+            "description": "Tools for Blockchain and Cryptocurrency and Useful Resources 📈."
+        },
+        {
+            "id": 7,
+            "name": "Books",
+            "image": "https://img.magnific.com/premium-vector/open-book-logo-design-template_339976-60381.jpg?semt=ais_hybrid&w=740&q=80",
+            "description": "Tools for Books and Useful Resources 📚."
+        },
+        {
+            "id": 8,
+            "name": "Business",
+            "image": "https://cdn.vectorstock.com/i/500p/15/12/gold-arrow-finance-logo-vector-14921512.jpg",
+            "description": "Tools for Business and Finance and Useful Resources 💰."
+        },
+        {
+            "id": 9,
+            "name": "Calendar",
+            "image": "https://img.magnific.com/free-vector/gradient-red-calendar_78370-3839.jpg?semt=ais_hybrid&w=740&q=80",
+            "description": "Tools for Calendar and Scheduling and Useful Resources 📅."
+        },
+        {
+            "id": 10,
+            "name": "Cloud Storage & File Sharing",
+            "image": "https://img.magnific.com/free-vector/cloud-with-cyber-wires_78370-6678.jpg?semt=ais_hybrid&w=740&q=80",
+            "description": "Tools for Cloud Storage and File Sharing and Useful Resources ☁️."
+        },
+        {
+            "id": 11,
+            "name": "Continuous Integration",
+            "image": "https://cdn-icons-png.flaticon.com/512/16942/16942646.png",
+            "description": "Azure Resource Health helps you diagnose and get support when Azure service problems impact your cloud resources 🧪."
+        },
+        {
+            "id": 12,
+            "name": "Cryptocurrency",
+            "image": "https://img.magnific.com/free-vector/modern-bitcoin-design_1035-9520.jpg?semt=ais_hybrid&w=740&q=80",
+            "description": "Tools for Cryptocurrency and Useful Resources 🤝."
+        },
+        {
+            "id": 13,
+            "name": "Currency Exchange",
+            "image": "https://img.magnific.com/free-vector/gradient-data-analytics_78370-6677.jpg?semt=ais_hybrid&w=740&q=80",
+            "description": "Tools for Currency Exchange and Useful Resources �."
+        },
+        {
+            "id": 14,
+            "name": "Data Validation",
+            "image": "https://freepngimg.com/save/63478-converter-exchange-symbol-foreign-currency-rate-market/512x512",
+            "description": "Tools for Data Validation and Useful Resources 🧪."
+        },
+        {
+            "id": 15,
+            "name": "Development",
+            "image": "https://cdn-icons-png.flaticon.com/512/2110/2110641.png",
+            "description": "This is a directory listing various developer APIs alongside their descriptions, authentication requirements, HTTPS support, and CORS compatibility. 🛠️."
+        },
+        {
+            "id": 16,
+            "name": "Dictionaries",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6IdNYDM8FgnsYyprwngVbEfR-a7rLrpq5S5BQs1ZkI4mJDWarj5qsNXNA&s=10",
+            "description": "Tools for Dictionaries and Useful Resources 📖."
+        },
+        {
+            "id": 17,
+            "name": "Documents & Productivity",
+            "image": "https://cdn-icons-png.flaticon.com/512/12179/12179276.png",
+            "description": "Tools for Documents & Productivity and Useful Resources 📄."
+        },
+        {
+            "id": 18,
+            "name": "Email",
+            "image": "https://www.citypng.com/public/uploads/preview/creative-gmail-logo-in-circles-icon-701751695132413f5ij0bloth.png",
+            "description": "Tools for Email and Useful Resources 📧."
+        },
+        {
+            "id": 19,
+            "name": "Entertainment",
+            "image": "https://cdn.dribbble.com/userupload/7806549/file/original-c88fa60421dded6ad705cf1c4d2145d5.jpg",
+            "description": "Tools for Entertainment and Useful Resources 🎬."
+        },
+        {
+            "id": 20,
+            "name": "Environment",
+            "image": "https://www.nicepng.com/png/detail/892-8924282_iafere-logo-environment-and-agriculture-logo.png",
+            "description": "Tools for Environment and Useful Resources 🌱."
+        },
+        {
+            "id": 21,
+            "name": "Events",
+            "image": "https://icon2.cleanpng.com/20180523/puq/kisspng-computer-icons-organization-logo-coventry-high-sch-sensory-lab-5b0572940a3a27.6884089015270836680419.jpg",
+            "description": "Tools for Events and Useful Resources 🎉."
+        },
+        {
+            "id": 22,
+            "name": "Finance",
+            "image": "https://img.magnific.com/premium-vector/financial-logo-illustration-vector-art_1305724-2423.jpg?w=360",
+            "description": "Tools for Finance and Useful Resources 💵."
+        },
+        {
+            "id": 23,
+            "name": "Food & Drink",
+            "image": "https://cdn.vectorstock.com/i/500p/59/38/elegant-food-amp-wine-logo-plate-vector-33655938.jpg",
+            "description": "Tools for Food & Drink and Useful Resources 🍔."
+        },
+        {
+            "id": 24,
+            "name": "Games & Comics",
+            "image": "https://thezonecomics.com/uploads/3/4/2/4/34246493/zone-logo_orig.jpg",
+            "description": "Tools for Games & Comics and Useful Resources 🎮."
+        },
+        {
+            "id": 25,
+            "name": "Geocoding",
+            "image": "https://share-my-location.com/ico/reverse-geocoding.svg",
+            "description": "Tools for Geocoding and Useful Resources 🗺️."
+        },
+        {
+            "id": 26,
+            "name": "Government",
+            "image": "https://e7.pngegg.com/pngimages/132/298/png-clipart-local-government-state-government-central-government-government-agency-united-states-blue-text-thumbnail.png",
+            "description": "Tools for Government and Useful Resources 🏛️."
+        },
+        {
+            "id": 27,
+            "name": "Health",
+            "image": "https://similarpng.com/_next/image/?url=https%3A%2F%2Fimage.similarpng.com%2Ffile%2Fsimilarpng%2Fvery-thumbnail%2F2022%2F01%2FMedical-health-logo-design-on-transparent-background-PNG.png&w=3840&q=75",
+            "description": "Tools for Health & Fitness and Useful Resources 🏋️."
+        },
+        {
+            "id": 28,
+            "name": "Jobs",
+            "image": "https://img.magnific.com/premium-vector/find-job-logo-template-design_20029-959.jpg?semt=ais_hybrid&w=740&q=80",
+            "description": "Tools for Jobs and Useful Resources 💼."
+        },
+        {
+            "id": 29,
+            "name": "Machine Learning",
+            "image": "https://e7.pngegg.com/pngimages/923/684/png-clipart-chatbot-artificial-intelligence-technology-machine-learning-technology-electronics-logo.png",
+            "description": "Tools for Machine Learning and Useful Resources 🤖."
+        },
+        {
+            "id": 30,
+            "name": "Music",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlEuIYJyh_E0euzoaiXCUHbWRKldwGbFT9hEbdWLx-TDhsnsOuqUdXtqA&s=10",
+            "description": "Tools for Music and Useful Resources 🎵."
+        },
+        {
+            "id": 31,
+            "name": "News",
+            "image": "https://www.freeiconspng.com/uploads/news-icon-18.png",
+            "description": "Tools for News and Useful Resources 📰."
+        },
+        {
+            "id": 32,
+            "name": "Open Data",
+                "image": "https://cdn-icons-png.flaticon.com/512/2037/2037155.png",
+            "description": "Tools for Open Data and Useful Resources 📊."
+        },
+        {
+            "id": 33,
+            "name": "Open Source Projects",
+            "image": "https://png.pngtree.com/png-vector/20221003/ourmid/pngtree-open-source-programming-png-image_6264096.png",
+            "description": "Tools for Open Source and Useful Resources 🖥️."
+        },
+        {
+            "id": 34,
+            "name": "Patent",
+            "image": "https://www.pngfind.com/pngs/m/310-3101327_patents-intellectual-property-patent-logo-hd-png-download.png",
+            "description": "Tools for Patent and Useful Resources ®️™."
+        },
+        {
+            "id": 35,
+            "name": "Personality",
+            "image": "https://img.magnific.com/free-vector/vector-gradient-human-head-logo-design_474888-2627.jpg?semt=ais_hybrid&w=740&q=80",
+            "description": "Tools for Personality and Useful Resources 🧠."
+        },
+        {
+            "id": 36,
+            "name": "Phone",
+            "image": "https://i.pinimg.com/736x/59/26/3a/59263a1c263ade9bbaed2edd7caff2af.jpg",
+            "description": "Tools for Phone and Useful Resources 📱."
+        },
+        {
+            "id": 37,
+            "name": "Photography",
+            "image": "https://png.pngtree.com/png-vector/20220502/ourmid/pngtree-blue-aperture-photography-logo-png-image_4561840.png",
+            "description": "Tools for Photography and Useful Resources 📸."
+        },
+        {
+            "id": 38,
+            "name": "Programming",
+            "image": "https://cdn-icons-png.flaticon.com/512/8379/8379454.png",
+            "description": "Tools for Programming and Useful Resources 💻."
+        },
+        {
+            "id": 39,
+            "name": "Science & Math",
+            "image": "https://img.magnific.com/free-vector/gradient-science-lab-logo_78370-6675.jpg?semt=ais_hybrid&w=740&q=80",
+            "description": "Tools for Science & Math and Useful Resources 🔬."
+        },
+        {
+            "id": 40,
+            "name": "Social Security",
+            "image": "https://png.pngtree.com/element_our/png/20180913/creative-abstract-open-lock-logo.-security-logo-concept.-png_94971.jpg",
+            "description": "Tools for Social Security and Useful Resources 📱."
+        },
+        {
+            "id": 41,
+            "name": "Shopping",
+            "image": "https://img.magnific.com/premium-vector/shopping-logo-vector-icon_636116-200.jpg?semt=ais_hybrid&w=740&q=80",
+            "description": "Tools for Shopping and Useful Resources 🛒."
+        },
+        {
+            "id": 42,
+            "name": "Social",
+            "image": "https://static.vecteezy.com/system/resources/thumbnails/003/600/941/small/set-of-square-social-media-logo-in-color-bacground-free-vector.jpg",
+            "description": "Tools for Social Media and Useful Resources 📱."
+        },
+        {
+            "id": 43,
+            "name": "Sports & Fitness",
+            "image": "https://cdn.vectorstock.com/i/500p/04/42/initial-fitness-logo-on-letter-s-concept-for-gym-vector-55560442.jpg",
+            "description": "Tools for Sports & Fitness and Useful Resources 🏆."
+        },
+        {
+            "id": 44,
+            "name": "Test Data",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpprzQlu7xQp3N5uLJx8bm8EQeYsNoXkzwvBSF9bK65SQqR7-LvSefJBA&s=10",
+            "description": "Tools for Test Data and Useful Resources 🧪."
+        },
+        {
+            "id": 45,
+            "name": "Text Analysis",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPF114SOOmUomCfA2SX_PVv7AoZaaAWu-EVuo6KNGG_Q&s=10",
+            "description": "Tools for Text Analysis and Useful Resources 📝."
+        },
+        {
+            "id": 46,
+            "name": "Tracking",
+            "image": "https://static.vecteezy.com/system/resources/thumbnails/059/895/458/small/pin-place-icon-maps-road-search-or-logo-isolated-sign-symbol-illustration-high-quality-black-and-color-style-or-icons-vector.jpg",
+            "description": "Tools for Tracking and Useful Resources 🕒."
+        },
+        {
+            "id": 47,
+            "name": "Transportation",
+            "image": "https://png.pngtree.com/template/20190916/ourmid/pngtree-truck-trailer-transportation-logo-vector-image_306029.jpg",
+            "description": "Tools for Transportation and Useful Resources 🚗."
+        },
+        {
+            "id": 48,
+            "name": "URL Shorteners",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASETshY-PDsDtdoIWILIQ6w1as4eqeok-Nv-L6gHbiThV65YhW8zost_h&s=10",
+            "description": "Tools for URL Shorteners and Useful Resources 🔗."
+        },
+        {
+            "id": 49,
+            "name": "Vehicle",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb5cQucdoHRO65AOCSi8sMcm_Di7LClTuKSYhSa34Km-1YM69G3J1x10Kv&s=10",
+            "description": "Tools for Vehicle and Useful Resources 🚘."
+        },
+        {
+            "id": 50,
+            "name": "Video",
+            "image": "https://static.vecteezy.com/system/resources/thumbnails/042/567/550/small/play-video-film-strip-icon-for-your-web-site-design-logo-app-ui-illustration-png.png",
+            "description": "Tools for Video and Useful Resources 🎥."
+        },
+        {
+            "id": 51,
+            "name": "Weather",
+            "image": "https://cdn-icons-png.flaticon.com/512/4052/4052984.png",
+            "description": "Tools for Weather and Useful Resources 🌦️."
+        }
+    ]
+}
